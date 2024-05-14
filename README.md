@@ -1,0 +1,1 @@
+O arquivo CSV e somente um modelo de base de conhcimento que pode ser utilizado para teste. Caso deseje colocar outro arquivo o formate de modo que o mesmo so tenha duas colunas, com a primeira sendo o titulo do Texto e a segundo o conteudo
